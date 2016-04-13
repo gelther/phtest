@@ -37,20 +37,3 @@ php:
     whitespace_before_function_brace: space
     whitespace_before_function_close: no_space
     whitespace_before_function_parentheses: no_space
-HTTP/1.0 302 Found
-Cache-Control: no-cache
-Date:          Wed, 13 Apr 2016 14:20:27 GMT
-Location:      https://app.codeoversight.com/repository/53/settings/code-rules/predefined-code-rules
-
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8" />
-        <meta http-equiv="refresh" content="1;url=https://app.codeoversight.com/repository/53/settings/code-rules/predefined-code-rules" />
-
-        <title>Redirecting to https://app.codeoversight.com/repository/53/settings/code-rules/predefined-code-rules</title>
-    </head>
-    <body>
-        Redirecting to <a href="https://app.codeoversight.com/repository/53/settings/code-rules/predefined-code-rules">https://app.codeoversight.com/repository/53/settings/code-rules/predefined-code-rules</a>.
-    </body>
-</html>
